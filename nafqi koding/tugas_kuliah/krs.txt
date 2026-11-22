@@ -1,0 +1,4 @@
+
+NIM: 121
+mata kuliah: mtk
+jumlah SKS: 3
